@@ -4,7 +4,8 @@
 **Builder:** Hossam Elshahaby  
 **Date:** October 3, 2026  
 **Track:** Track 2 - Accounting  
-**Live demo:** https://stripecashops.lovable.app
+**Live demo:** https://stripecashops.lovable.app  
+**Pitch video:** https://youtu.be/cLdgKzmBh-s
 
 ## Overview
 
@@ -67,5 +68,5 @@ StripeCashOps helps small teams reduce manual accounting work, follow up faster,
 **Project name:** StripeCashOps  
 **Category:** Accounting automation  
 **Website:** https://stripecashops.lovable.app  
+**Pitch video:** https://youtu.be/cLdgKzmBh-s  
 **Builder:** Hossam Elshahaby  
-

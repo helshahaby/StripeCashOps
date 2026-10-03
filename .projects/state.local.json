@@ -1,0 +1,55 @@
+{
+  "version": 4,
+  "project": {
+    "catalog": "prod",
+    "initializedAt": "2026-10-03T11:13:58.230Z",
+    "merchantDisplayName": "Hossam",
+    "merchantId": "acct_1TaC5yCc8CJ6bdoX",
+    "projectId": "project_61VVoqU6QD2LNw9l816Uja3LMABCcKlaru90nOQC8DNY",
+    "projectName": "BrusselsStripe"
+  },
+  "providers": {
+    "resend": {
+      "accountRequestId": "facctrq_61VVp8J80hIpBCOvv16Uja3LMABCcKlaru90nOQC8LpQ",
+      "configuration": {},
+      "linkedAt": "2026-10-03T11:32:25.512Z",
+      "providerId": "prvdr_61VFXTzsszWb1r1S25KMa",
+      "providerName": "Resend",
+      "redirectUrl": null,
+      "requestedAt": "2026-10-03T11:32:25.512Z",
+      "status": "complete",
+      "providerAccount": {
+        "id": "0738d005-08b5-4b72-8c6d-cd827c879c33",
+        "display_name": "hossam.a.elshahaby",
+        "primary_email": "hossam.a.elshahaby@gmail.com",
+        "link_action": "created"
+      }
+    }
+  },
+  "resources": {
+    "resend-email": {
+      "configuration": {},
+      "createdAt": "2026-10-03T11:32:38.025Z",
+      "lastRevealedAt": "2026-10-03T11:32:38.633Z",
+      "lastStatus": "complete",
+      "livemode": true,
+      "name": "resend-email",
+      "providerId": "prvdr_61VFXTzsszWb1r1S25KMa",
+      "providerName": "Resend",
+      "resourceId": "fres_61VVp8XO4olGnLzTy16Uja3LMABCcKlaru90nOQC8BIu",
+      "serviceId": "email"
+    },
+    "resend-plan": {
+      "configuration": {},
+      "createdAt": "2026-10-03T11:32:27.485Z",
+      "lastRevealedAt": "2026-10-03T11:32:28.198Z",
+      "lastStatus": "complete",
+      "livemode": true,
+      "name": "resend-plan",
+      "providerId": "prvdr_61VFXTzsszWb1r1S25KMa",
+      "providerName": "Resend",
+      "resourceId": "fres_61VVp8MUwIfIFHFSl16Uja3LMABCcKlaru90nOQC8GvQ",
+      "serviceId": "free"
+    }
+  }
+}

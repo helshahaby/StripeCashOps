@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "providers": {
+    "resend": {
+      "name": "Resend"
+    }
+  },
+  "resources": {
+    "resend-email": {
+      "livemode": true,
+      "name": "resend-email",
+      "providerName": "Resend",
+      "serviceId": "email"
+    },
+    "resend-plan": {
+      "livemode": true,
+      "name": "resend-plan",
+      "providerName": "Resend",
+      "serviceId": "free"
+    }
+  }
+}
